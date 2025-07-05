@@ -1,0 +1,16 @@
+{
+  "status": "healthy",
+  "timestamp": "2024-01-01T00:00:00.000Z",
+  "version": "1.0.0",
+  "services": {
+    "frontend": "healthy",
+    "api": "healthy",
+    "database": "healthy",
+    "cdn": "healthy"
+  },
+  "metrics": {
+    "uptime": "99.9%",
+    "responseTime": "120ms",
+    "errorRate": "0.1%"
+  }
+}
